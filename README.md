@@ -1,5 +1,7 @@
 # Advice Generator
 <img src="src/assets/Advicee.png">
 
-This project was made based on the concepts requested by Frontend Mentor:https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db
+you can access at:https://advice-generator-one-hazel.vercel.app/
+
+note:This project was made based on the concepts requested by Frontend Mentor
 
