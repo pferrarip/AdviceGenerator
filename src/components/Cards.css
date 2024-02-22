@@ -52,10 +52,14 @@ button:hover {
 @media (max-width: 500px) {
   .card {
     width: 20rem;
+    height: 20rem;
+  }
+  button {
+    top: 285px;
   }
   h2 {
     width: 200px;
-    font-size: 1.28rem;
+    font-size: 1.1rem;
   }
   #desktop {
     display: none;
